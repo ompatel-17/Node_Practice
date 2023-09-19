@@ -1,0 +1,14 @@
+git clone https://VanshikaWedo@bitbucket.org/kwavu/kwavu-backend-app.git
+
+
+
+
+App password: ATBBxs7hAQZf3FWjrPtjhHXZb2za78AEE482
+
+
+
+
+git clone https://kwavu-admin@bitbucket.org/kwavu/kwavu-backend-app.git
+
+
+ATBBBNEyCmEZ7885aF9642DbBdY9A51FF7C6
